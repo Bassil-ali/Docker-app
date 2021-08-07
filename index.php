@@ -1,3 +1,2 @@
 <?php
-
-echo "welcome to amizing docker";
+echo "welcome to amizing docker :)\n";
